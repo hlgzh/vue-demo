@@ -1,5 +1,7 @@
 # vue-test
 
+前后端分离的项目，这里只上传了前端vue部分。后端的逻辑处理未上传。
+
 ## Project setup
 ```
 npm install
